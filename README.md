@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QQTipu.
-- 🇫🇷 I’m from france.
+- 🇫🇷  I’m from france.
 - 🌱 I’m currently learning Data Management.
 
 <!---
