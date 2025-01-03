@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QQTipu.
 - 🥖 I’m from France.
-- 🌱 I’m currently working as a Data Consultant.
+- 🌱 I’m currently working as a Data Engineer & Data Scientist.
 
 <!---
 QQTipu/QQTipu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
